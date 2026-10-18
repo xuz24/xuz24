@@ -9,5 +9,5 @@
 - Building tools for research and data science
 
 ### 📫 Connect With Me
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/zijie-xu/)
+- LinkedIn: [linkedin.com/in/zijie-xu/](https://www.linkedin.com/in/zijie-xu/)
 - Email: xuzijie@umich.edu
